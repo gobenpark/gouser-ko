@@ -13,3 +13,5 @@
 - [백패커](https://team.idus.com/join-backpackr)
 - [한화비전](https://hanwhavision.ninehire.site/)
 - [삼성SDS](https://www.samsungsds.com/kr/careers/overview/about_care_over.html)
+- [ETRI](https://etri.recruitment.kr/app/jobnotice/list)
+- [화이트큐브](https://whitecube.ninehire.site/team)
