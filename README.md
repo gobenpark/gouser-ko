@@ -10,3 +10,6 @@
 - [42dot](https://42dot.ai/careers/openroles)
 - [커널로그](https://www.conalog.com)
 - [SionicAI](https://sionicai.careers.team/job-descriptions)
+- [백패커](https://team.idus.com/join-backpackr)
+- [한화비전](https://hanwhavision.ninehire.site/)
+- [삼성SDS](https://www.samsungsds.com/kr/careers/overview/about_care_over.html)
