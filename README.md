@@ -8,3 +8,5 @@
 - [쿠팡](https://www.coupang.jobs/kr)
 - [몰로코](https://www.moloco.com/ko/open-positions)
 - [42dot](https://42dot.ai/careers/openroles)
+- [커널로그](https://www.conalog.com)
+- [SionicAI](https://sionicai.careers.team/job-descriptions)
