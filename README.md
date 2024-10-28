@@ -17,3 +17,4 @@
 - [화이트큐브](https://whitecube.ninehire.site/team)
 - [샌드버드](https://sendbird.com/ko/careers)
 - [두나무](https://www.dunamu.com/careers/jobs)
+- [콕스웨이브](https://alignai.ninehire.site/)
