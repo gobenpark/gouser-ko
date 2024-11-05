@@ -21,3 +21,4 @@
 - [위메이드](https://recruit.wemade.com)
 - [크래프톤](https://www.krafton.com/careers/jobs)
 - [기아](https://career.kia.com/apply/applyList.kc?nfGubnC=37268bb0020007468bbc5a78ee13a6539b0a0a79bbfcdd7ad08406e8d43cd55f)
+- [루닛](https://www.lunit.io/ko/careers)
