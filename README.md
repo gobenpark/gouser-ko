@@ -25,3 +25,4 @@
 - [토스](https://toss.im/career/jobs)
 - [포스트매스](https://postmath.co.kr)
 - [넥슨](https://career.nexon.com/user/recruit/member/postList?joinCorp=NX)
+- [힐링페이퍼](https://team.gangnamunni.com/career/)
