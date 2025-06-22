@@ -27,3 +27,4 @@
 - [넥슨](https://career.nexon.com/user/recruit/member/postList?joinCorp=NX)
 - [힐링페이퍼](https://team.gangnamunni.com/career/)
 - [뱅크샐러드](https://corp.banksalad.com/jobs/)
+- [힐링페이퍼](https://career.gangnamunni.com/ko/home)
