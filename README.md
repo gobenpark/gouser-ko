@@ -29,3 +29,4 @@
 - [뱅크샐러드](https://corp.banksalad.com/jobs/)
 - [힐링페이퍼](https://career.gangnamunni.com/ko/home)
 - [쿡앱스](https://cookapps.com/careers/list)
+- [오버데어코리아](https://careers.overdare.com/)
