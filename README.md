@@ -32,3 +32,4 @@
 - [오버데어코리아](https://careers.overdare.com/)
 - [버즈빌](https://buzzvil.career.greetinghr.com/ko/home)
 - [카카오뱅크](https://recruit.kakaobank.com/jobs)
+- [채널코퍼레이션](https://channel.io/ko/careers?team=Engineering)
